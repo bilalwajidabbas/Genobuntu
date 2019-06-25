@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width=60% src="https://github.com/bilalwajidabbas/Genobuntu/blob/master/media/logo.png">
+<img width=60% src="https://github.com/bilalwajidabbas/Genobuntu/blob/master/media/Logo.png">
 </h1>
 
 <h4 align="center">An Installation Package for Genome Assembly Tools</h4>
@@ -48,7 +48,7 @@ Follow the on-screen dialogue boxes for installation.
 
 ## 👦 Author
  - Bilal Wajid
- 
+
 ## 🔑 License
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
 
